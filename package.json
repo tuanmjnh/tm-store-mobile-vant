@@ -1,0 +1,41 @@
+{
+  "name": "tm-store-mobile-vant",
+  "private": true,
+  "version": "2023.12.5.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "update": "npm update",
+    "upgrade": "npm upgrade"
+  },
+  "dependencies": {
+    "@vant/touch-emulator": "^1.4.0",
+    "axios": "^1.6.2",
+    "chart.js": "^4.4.0",
+    "chartjs-plugin-zoom": "^2.0.1",
+    "easyqrcodejs": "^4.6.0",
+    "html5-qrcode": "^2.3.8",
+    "js-cookie": "^3.0.5",
+    "jsbarcode": "^3.11.6",
+    "jwt-decode": "^4.0.0",
+    "less": "^4.2.0",
+    "moment": "^2.29.4",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.0",
+    "vant": "^4.8.0",
+    "vue": "^3.3.8",
+    "vue-chartjs": "^5.2.0",
+    "vue-i18n": "^9.7.1",
+    "vue-router": "^4.2.5",
+    "vue-router-better-scroller": "^0.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vant/auto-import-resolver": "^1.0.2",
+    "@vitejs/plugin-vue": "^4.5.0",
+    "unplugin-vue-components": "^0.25.2",
+    "vite": "^5.0.0"
+  }
+}
